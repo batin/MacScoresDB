@@ -1,0 +1,8 @@
+body h1 {
+  font-family:monospace;
+  font-style: oblique;
+  font-stretch:extra-expanded;
+  font-size: 3em;
+  color:  cornflowerblue;
+  text-align: center;
+}
